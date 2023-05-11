@@ -1,5 +1,5 @@
 ### Hi there 👋,I'm Chieh.
-
+- 🔭 I’m an electronic hardware engineer.
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to C#/C++.
