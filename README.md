@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to C#/C++.
 - 📫 How to reach me: LeonS.Kennedy__@outlook.com
-- 😄 Read more about my blog: [here](www.chieh.cn)
+- 😄 Read more about my blog: [here](chieh.cn)
 
 ![](https://github-readme-stats.vercel.app/api?username=LeonnS-Kennedy&show_icons=true&theme=transparent)
 
