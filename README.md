@@ -4,6 +4,8 @@
     </a>
   </div>
 
+
+
 ### Hi there 👋,I'm Chieh.
 - 🔭 I am an electronic hardware engineer.
 - 🔭 I’m currently working on something cool.
@@ -12,7 +14,7 @@
 - 📫 How to reach me: LeonS.Kennedy__@outlook.com
 - 😄 Read more about my blog: [here](www.chieh.cn)
 
-![](https://github-readme-stats.vercel.app/api?username=LeonnS-Kennedy&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=chieh&show_icons=true&theme=transparent)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LeonnS-Kennedy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
