@@ -8,7 +8,7 @@
 - 📫 How to reach me: LeonS.Kennedy__@outlook.com
 - 😄 Read more about my blog: [here](www.chieh.cn)
 
-![](https://github-readme-stats.vercel.app/api?username=LeonnS-Kennedy&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonnS-Kennedy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LeonnS-Kennedy)](https://github.com/ryo-ma/github-profile-trophy)
 
