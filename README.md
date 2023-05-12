@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=600&color=000000&center=%E7%9C%9F&vCenter=%E5%81%87&repeat=%E7%9C%9F&width=435&lines=OH++Hi%EF%BC%81;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-### Hi there 👋,I'm Chieh.
+### 👋  I'm Chieh.
 - 🔭 I am an electronic hardware engineer.
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
