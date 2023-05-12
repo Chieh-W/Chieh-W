@@ -4,8 +4,6 @@
     </a>
   </div>
 
-
-
 ### Hi there 👋,I'm Chieh.
 - 🔭 I am an electronic hardware engineer.
 - 🔭 I’m currently working on something cool.
@@ -15,6 +13,9 @@
 - 😄 Read more about my blog: [here](www.chieh.cn)
 
 ![](https://github-readme-stats.vercel.app/api?username=LeonnS-Kennedy&show_icons=true&theme=transparent)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LeonnS-Kennedy)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LeonnS-Kennedy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
