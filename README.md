@@ -2,7 +2,7 @@
 
 ### 👋  I'm Chieh.
 - 🤗 I’m an electronic hardware engineer.
-- 🔭 I’m currently learning programming
+- 🔭 I’m currently learning programming.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to C#/C++.
 - 📫 How to reach me: LeonS.Kennedy__@outlook.com
