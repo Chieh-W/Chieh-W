@@ -20,3 +20,18 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/LeonnS-Kennedy/cou
 
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+mindmap
+  root((Chieh))
+    Programming
+      C#
+      C++
+      Python
+    Game
+      PS5
+      Steam
+      Xbox
+    Travel
+      Ningbo
+      Nanjing
+      Shanghai
+      hangzhou
