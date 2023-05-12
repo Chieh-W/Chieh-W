@@ -5,7 +5,7 @@
 - 💬 Ask me about anything related to C#/C++.
 - 📫 How to reach me: LeonS.Kennedy__@outlook.com
 - 😄 Read more about my blog: [here](https://www.chieh.cn)
-
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 ![](https://github-readme-stats.vercel.app/api?username=LeonnS-Kennedy&show_icons=true&theme=transparent)
 
 
