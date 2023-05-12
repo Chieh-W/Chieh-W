@@ -6,7 +6,7 @@
 - 🌱 I believe tomorrow will be better.
 - 💬 Ask me about anything related to C#/C++.
 - 📫 How to reach me: LeonS.Kennedy__@outlook.com
-- 😄 Read more about my blog: [here](www.chieh.cn)
+- 😄 Read more about my blog: [here](https://www.chieh.cn/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonnS-Kennedy)](https://github.com/anuraghazra/github-readme-stats)
 
