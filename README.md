@@ -6,7 +6,7 @@
 - 📫 How to reach me: LeonS.Kennedy__@outlook.com
 - 😄 Read more about my blog: [here](https://www.chieh.cn)
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-![](https://github-readme-stats.vercel.app/api?username=LeonnS-Kennedy&show_icons=true&theme=transparent)
+<div align="center"> <img src="https://metrics.lecoq.io/chieh?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 
 
