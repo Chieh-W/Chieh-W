@@ -1,8 +1,4 @@
-  <div align="center">
-    <a href="https://www.chieh.cn/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22HELLO~%2C%20你好~%22);Nice to meet you!&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=OH++Hi%EF%BC%81;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 ### Hi there 👋,I'm Chieh.
 - 🔭 I am an electronic hardware engineer.
