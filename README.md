@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=OH++Hi%EF%BC%81;Nice+to+meet+you!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=OH++Hi%EF%BC%81;Nice+to+meet+you!)](https://git.io/typing-svg) 
 
 ### Hi there 👋,I'm Chieh.
 - 🔭 I am an electronic hardware engineer.
