@@ -1,6 +1,6 @@
   <div align="center">
     <a href="https://www.chieh.cn/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22OH%2C%20Hi%22);Nice to meet you!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=OH , Hi!;Nice to meet you!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
