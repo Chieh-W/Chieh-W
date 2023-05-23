@@ -14,7 +14,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LeonnS-Kennedy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 You are my ![Visitor Count](https://profile-counter.glitch.me/LeonnS-Kennedy/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 ### My Skill Set
 
