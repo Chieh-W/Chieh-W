@@ -18,9 +18,9 @@
 You are my ![Visitor Count](https://profile-counter.glitch.me/LeonnS-Kennedy/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 ### My Skill Set
 
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+### My hobbies
+![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)![](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 
 
 <div align="center">
