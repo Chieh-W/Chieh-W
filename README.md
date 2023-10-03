@@ -10,7 +10,7 @@
 - 📫 How to reach me: LeonS.Kennedy__@outlook.com
 - 😄 Read more about my blog: [here](https://www.chieh.cn/)
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
