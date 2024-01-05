@@ -7,8 +7,8 @@
 - 🔭 I’m currently learning programming.
 - 🌱 I believe tomorrow will be better.
 - 💬 Ask me about anything related to C#/C++.
-- 📫 How to reach me: LeonS.Kennedy__@outlook.com
-- 😄 Read more about my blog: [here](https://www.chieh.cn/)
+- 📫 How to reach me: wwchieh@outlook.com
+- 😄 Read more about my blog: [here](https://www.chieh.pro/)
 
 
 <!-- Quotes 名人名言 -->
