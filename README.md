@@ -7,7 +7,7 @@
 - 🔭 I’m currently learning programming.
 - 🌱 I believe tomorrow will be better.
 - 💬 Ask me about anything related to C#/C++.
-- 📫 How to reach me: wwchieh@outlook.com
+- 📫 How to reach me: chieh@chieh.email
 - 😄 Read more about my blog: [here](https://www.chieh.pro/)
 
 
