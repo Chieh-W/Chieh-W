@@ -2,7 +2,7 @@
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=100&color=000000&center=%E7%9C%9F&vCenter=%E5%81%87&repeat=%E7%9C%9F&width=435&lines=OH++Hi%EF%BC%81Nice+to+meet+you!)](https://www.chieh.cn)
-
+ 
 ### 👋  I'm Chieh.
 - 🔭 I’m currently learning programming.
 - 🌱 I believe tomorrow will be better.
