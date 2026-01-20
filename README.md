@@ -1,8 +1,3 @@
-<!-- =======================
-   Chieh-W / Profile README
-   Dark Cyber Card Style
-   ======================= -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Chieh-W&fontAlign=50&fontAlignY=35&desc=Keep%20learning.%20Keep%20shipping.%20%F0%9F%9A%80&descAlign=50&descAlignY=58&color=0:000000,100:222222&fontColor=ffffff" />
 </p>
@@ -150,7 +145,6 @@
 
 ## 🧊 Featured Projects
 
-> 把下面的 `REPO_NAME_X` 改成你想展示的仓库名（建议 2~4 个）
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chieh-W&repo=REPO_NAME_1&theme=transparent&hide_border=true" />
