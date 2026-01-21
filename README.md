@@ -54,14 +54,8 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,react,vue,html,css,mysql,docker,kubernetes,nginx,aws,git&perline=8" />
-</p>
 
-<details>
-  <summary><b>🧱 Extra Icon Wall (click to expand)</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="60" />
+   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="60" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" />
     <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="60" />
@@ -72,60 +66,15 @@
     <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" />
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" />
     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="60" />
-  </p>
-</details>
-
----
+</p>
 
 ## 🎮 Hobbies
-
 <p align="center">
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
 </p>
-
----
-
-## 📊 Stats & Activity
-
-<details open>
-  <summary><b>🔥 GitHub Stats</b></summary>
-  <br/>
-  <p align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chieh-W&show_icons=true&hide_title=true&rank_icon=github&theme=transparent&hide_border=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chieh-W&layout=compact&theme=transparent&hide_border=true" />
-  </p>
-
-  <p align="center">
-    <img height="180" src="https://streak-stats.demolab.com?user=Chieh-W&theme=transparent&hide_border=true" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chieh-W&theme=github-compact&hide_border=true" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🏆 Trophy Wall</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Chieh-W&theme=darkhub&no-frame=true&row=1&column=7" />
-  </p>
-</details>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chieh-W/Chieh-W/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🧰 Toolbox (GIF Wall)
-
 <p align="center">
   <img height="92" width="92" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
   <img height="92" width="92" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
@@ -141,22 +90,7 @@
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
 </p>
 
----
 
-## 🧊 Featured Projects
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chieh-W&repo=REPO_NAME_1&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chieh-W&repo=REPO_NAME_2&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chieh-W&repo=REPO_NAME_3&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chieh-W&repo=REPO_NAME_4&theme=transparent&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:222222,100:000000&fontColor=ffffff" />
